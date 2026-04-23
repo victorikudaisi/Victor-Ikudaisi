@@ -15,6 +15,6 @@ Analysis: Excel(Power Query, Pivot Tables, DAX), SQL(PostgreSQL, MySQL, SQLite),
 - 🏥 [Hospital Readmission Risk Dashboard](link-here)
 
 **Reach me here:**
-- TikTok: @daisi_techrecruiter
+- TikTok: (https://www.tiktok.com/@daisi_techrecruiter)
 - LinkedIn: https://www.linkedin.com/in/victor-ikudaisi
 - Email: abayomivictor61@gmail.com
