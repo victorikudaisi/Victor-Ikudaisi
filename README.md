@@ -6,7 +6,7 @@ I transform raw data into actionable business insights using Excel, SQL, Python 
 I also help African tech talent land their dream roles.
 
 **Tools & Skills**
-Analysis:** Excel(Power Query, Pivot Tables, DAX), SQL(PostgreSQL, MySQL, SQLite), Python (Pandas, NumPy) 
+Analysis: Excel(Power Query, Pivot Tables, DAX), SQL(PostgreSQL, MySQL, SQLite), Python (Pandas, NumPy) 
 - **Reporting:** Interactive Dashboards, KPI Scorecards
 - **Industries:** Healthcare, Fintech, Telecom, Agriculture
 - **Recruiting:** Full-cycle hiring | African Tech Talent
