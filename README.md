@@ -1,4 +1,4 @@
-# Hi there, I'm Victor Ikudaisi 👋
+# Hi there, I'm Victor Ikudaisi 
 
 ## Data Analyst | Tech Recruiter 
 
